@@ -1,2 +1,2 @@
 # Axie-Infinity-Scholars-Tracker
-TEst project for tracking axie scholar
+Test project for tracking axie scholar
